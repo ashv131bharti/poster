@@ -1,0 +1,47 @@
+.card{
+    
+    height: 600px;
+    width: 600px;
+    padding: 20px;
+    
+}
+img{
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 300;
+    width: 600px;
+}
+#detail{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#offmoney{
+    font-size: 35px;
+    color: rgb(82, 82, 161);
+    font-weight: bold;
+    
+    
+}
+
+#price{
+    font-size: 35px;
+    color: rgb(111, 6, 210);
+    font-weight: bold;
+    text-decoration: line-through;
+    margin-left: 30px;
+
+}
+
+#off{
+    color: white;
+    background-color: rgb(2, 48, 2);
+    font-size: 30px;
+    border-radius: 10px;
+    margin-left: 30px;
+    
+   
+    
+}
+
